@@ -13,8 +13,7 @@ This project was developed as a group effort for Fundenmentals Of Software Engin
 
 # Tools and Technologies
 
-<ol>
-  <li>TypeScript</li>
-  <li>Express<li>
-  <li>Kotlin</li>
-</ol>
+- [ExpressJS](https://expressjs.com/)
+- [PostgresSQL](https://typegoose.github.io/typegoose/)
+- [TypeScript](https://www.typescriptlang.org/docs/)
+- [Kotlin](https://reactjs.org/)

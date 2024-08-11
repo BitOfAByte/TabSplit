@@ -5,11 +5,11 @@ This project was developed as a group effort for Fundenmentals Of Software Engin
 
 ## Team Members
 
-[Christoffer Steentoft](https://github.com/idktheuser)
-[David Holstrøm](https://github.com/hypersonicsharkz)
-[Marcus Skyttegaard Vinge](https://github.com/idktheuser)
-[Mathias Røjleskov](https://github.com/idktheuser)
-[Niclas E. Sjørslev](https://github.com/idktheuser)
+- [Christoffer Steentoft](https://github.com/idktheuser)
+- [David Holstrøm](https://github.com/hypersonicsharkz)
+- [Marcus Skyttegaard Vinge](https://github.com/idktheuser)
+- [Mathias Røjleskov](https://github.com/idktheuser)
+- [Niclas E. Sjørslev](https://github.com/idktheuser)
 
 # Tools and Technologies
 

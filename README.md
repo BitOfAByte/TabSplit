@@ -1,7 +1,7 @@
 # TabSplit
 
 # Credits and Acknowledgements
-This project was developed as a group effort for Fundenmentals Of Software Engineering at University of Southern Denmark. I woold like to express our sincere gratitude to all team members who contributed to the success of this project.
+This project was developed as a group effort for Fundenmentals Of Software Engineering at University of Southern Denmark. I would like to express our sincere gratitude to all team members who contributed to the success of this project.
 
 ## Team Members
 
